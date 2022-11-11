@@ -105,12 +105,12 @@
     --background-secondary-alt:   var(--sumiInk2);
     --text-normal:                var(--fujiWhite);
     --text-faint:                 var(--fujiGray);
-    --text-title-h1:              var(--neutral-red);
-    --text-title-h2:              var(--neutral-orange);
-    --text-title-h3:              var(--neutral-yellow);
-    --text-title-h4:              var(--neutral-green);
-    --text-title-h5:              var(--neutral-aqua);
-    --text-title-h6:              var(--neutral-blue);
+    --text-title-h1:              var(--autumnRed);
+    --text-title-h2:              var(--autumnYellow);
+    --text-title-h3:              var(--autumnGreen);
+    --text-title-h4:              var(--waveAqua2);
+    --text-title-h5:              var(--crystalBlue);
+    --text-title-h6:              var(--oniViolet);
     --text-link:                  var(--springBlue);
     --text-a:                     var(--dragonBlue);
     --text-a-hover:               var(--peachRed);
